@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Clinic CRM">
+  <rect width="48" height="48" rx="12" fill="#1f7a4d"/>
+  <path d="M20 11h8a1 1 0 0 1 1 1v7h7a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-7v7a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-7h-7a1 1 0 0 1-1-1v-8a1 1 0 0 1 1-1h7v-7a1 1 0 0 1 1-1z" fill="#fff"/>
+  <path d="M12 24h6l2.5-5 3.5 10 2.5-5H36" fill="none" stroke="#1f7a4d" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

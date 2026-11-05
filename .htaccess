@@ -1,0 +1,4 @@
+# Safety net if the project folder is ever opened through Apache: never serve secrets or config.
+<FilesMatch "^(\.env.*|composer\.(json|lock)|.*\.(sql|md|log))$">
+    Require all denied
+</FilesMatch>

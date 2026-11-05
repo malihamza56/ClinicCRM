@@ -1,0 +1,22 @@
+{
+    "name": "student/clinic-crm",
+    "description": "Clinic CRM - multi-specialty clinic management system (PHP + MySQL, MVC).",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": { "App\\": "app/" },
+        "files": ["app/Helpers/helpers.php"]
+    },
+    "scripts": {
+        "test": "php tests/run.php",
+        "lint": "php tests/lint.php",
+        "install-db": "php bin/install-db.php",
+        "seed-demo": "php bin/install-db.php --seed"
+    }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" role="img" aria-label="Access denied">
+  <ellipse cx="100" cy="132" rx="62" ry="9" fill="#e2e9e4"/>
+  <path d="M72 66V52a28 28 0 0 1 56 0v14" fill="none" stroke="#1f7a4d" stroke-width="10" stroke-linecap="round"/>
+  <rect x="54" y="62" width="92" height="64" rx="14" fill="#1f7a4d"/>
+  <circle cx="100" cy="90" r="9" fill="#fff"/><rect x="96" y="96" width="8" height="16" rx="4" fill="#fff"/>
+</svg>

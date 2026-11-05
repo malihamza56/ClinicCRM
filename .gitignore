@@ -1,0 +1,19 @@
+# Secrets and local configuration
+.env
+
+# Runtime files
+storage/logs/*
+!storage/logs/.gitkeep
+storage/backups/*
+!storage/backups/.gitkeep
+
+# Dependencies and tooling
+/vendor/
+node_modules/
+composer.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

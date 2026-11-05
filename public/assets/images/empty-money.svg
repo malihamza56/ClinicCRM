@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" role="img" aria-label="No payments">
+  <ellipse cx="100" cy="132" rx="62" ry="9" fill="#e2e9e4"/>
+  <rect x="38" y="44" width="124" height="72" rx="12" fill="#fff" stroke="#cdd8d1" stroke-width="2"/><rect x="38" y="60" width="124" height="14" fill="#d3ecdd"/><circle cx="100" cy="92" r="16" fill="#1f7a4d"/><path d="M100 84v16M94 90h9a3 3 0 0 1 0 6h-6" stroke="#fff" stroke-width="2.6" stroke-linecap="round" fill="none"/><rect x="50" y="102" width="30" height="6" rx="3" fill="#e2e9e4"/>
+</svg>
